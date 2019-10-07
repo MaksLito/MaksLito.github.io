@@ -14,3 +14,9 @@ img{
 	width: 200px;
 }
 background-image:url("http://bgfons.com/uploads/notebook/notebook_texture2464.jpg")
+dt{
+	font-size:20pt;
+	color:#1E90FF;
+	text-shadow:2px 2px 5px black;
+}
+	
