@@ -13,12 +13,7 @@ h1{
 img{
 	width: 200px;
 }
-body{
-	background-image:url("http://bgfons.com/uploads/notebook/notebook_texture2464.jpg");
-	vlink: #000000;
-	alink: #1E90FF;
-	link: #000000;
-}
+background-image: url("http://bgfons.com/uploads/notebook/notebook_texture2464.jpg")
 dt{
 	font-size:20pt;
 	color:#1E90FF;
