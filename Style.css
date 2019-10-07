@@ -6,9 +6,11 @@ p{
 h1{
 	color: #1E90FF;
 	text-align: center;
+	text-align: top;
 	text-shadow: 2px 2px 5px black;
-	font-size: 40;
+	font-size: 60;
 }
 img{
 	width: 200px;
 }
+background-image:url("http://bgfons.com/uploads/notebook/notebook_texture2464.jpg")
