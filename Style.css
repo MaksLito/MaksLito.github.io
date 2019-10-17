@@ -1,7 +1,8 @@
 p{
 	font-size:20pt;
 	color:#1E90FF;
-	text-shadow:2px 2px 3px black; 
+	text-shadow:2px 2px 3px black;
+	text-align: center;
 }
 h1{
 	color: #1E90FF;
