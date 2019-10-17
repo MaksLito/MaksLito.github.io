@@ -8,15 +8,40 @@ h1{
 	text-align: center;
 	text-align: top;
 	text-shadow: 2px 2px 3px black;
-	font-size: 60;
+	font-size: 100pt;
+}
+h2{
+	color: #1E90FF;
+	text-align: center;
+	text-align: top;
+	text-shadow: 2px 2px 3px black;
+	font-size: 40pt;
+}
+h3{
+	text-align: center;
+	text-align: top;
+	text-shadow: 2px 2px 3px black;
+	font-size: 20pt;
 }
 img{
-	width: 200px;
+	width: 150px;
 }
-background-image: url("http://bgfons.com/uploads/notebook/notebook_texture2464.jpg")
+web{
+	width: 400;
+	height: 200;
+	align: bottom;
+	align: right;
+}
+body{
+background:url(fon.jpg);
+background-attachment:fixed;
+}
 dt{
-	font-size:20pt;
-	color:#1E90FF;
-	text-shadow:2px 2px 5px black;
+	color: #1E90FF;
+	font-size: 15pt;
 }
+dd{
+	font-size: 15pt;
+}
+//http://bgfons.com/uploads/notebook/notebook_texture2464.jpg
 	
