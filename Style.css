@@ -51,14 +51,23 @@ dd{
 hr{
 	color: #1E90FF;
 }
-table{
-	border: 1px; 
-	width: 50%;
-	color: lightblue;
-	text-align: center;
+table {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	text-align: left;
+	border-collapse: separate;
+	border-spacing: 5px;
+	background: #ECE9E0;
+	color: #656665;
+	border: 16px solid #ECE9E0;
+	border-radius: 20px;
 }
-tr{
-	color: #1E90FF;
+th {
+	font-size: 18px;
+	padding: 10px;
+}
+td {
+	background: #F5D7BF;
+	padding: 10px;
 }
 //http://bgfons.com/uploads/notebook/notebook_texture2464.jpg
 	
