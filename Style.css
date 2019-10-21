@@ -22,8 +22,7 @@ h3{
 	font-size: 20pt;
 }
 img{
-	width: 150px;
-	align: left; 
+	width: 150px; 
 	height: 200px; 
 	border: 1px; 
 	margin-left: 20px;
@@ -66,12 +65,12 @@ td {
 	padding: 10px;
 }
 A {
-    		color: black;
+    	color: black;
 }
 A:visited {
-    		color: black;
+    	color: black;
 }
 A:active {
-    		color: #1E90FF;
+    	color: #1E90FF;
 }
 	
