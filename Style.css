@@ -42,8 +42,7 @@ dd{
 	font-size: 15pt;
 }
 hr{
-	border: 0;
-	color: #1E90FF;
+	border-top: 1px solid #1E90FF;
 }
 table {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
