@@ -52,7 +52,7 @@ table {
 	border-collapse: separate;
 	border-spacing: 5px;
 	background: #1E90FF;
-	color: black;
+	color: #000000;
 	border: 16px solid #E0FFFF;
 	border-radius: 20px;
 }
@@ -65,10 +65,10 @@ td {
 	padding: 10px;
 }
 A {
-    	color: black;
+    	color: #000000;
 }
 A:visited {
-    	color: black;
+    	color: #000000;
 }
 A:active {
     	color: #1E90FF;
