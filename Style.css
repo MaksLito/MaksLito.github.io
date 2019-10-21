@@ -42,7 +42,7 @@ dd{
 	font-size: 15pt;
 }
 hr{
-	size: 1px;
+	border: 0;
 	color: #1E90FF;
 }
 table {
