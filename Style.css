@@ -37,9 +37,6 @@ body{
 	background-attachment:fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
-	vlink: black; 
-	alink: lightgreen; 
-	link: black;
 }
 dt{
 	color: #1E90FF;
@@ -70,6 +67,15 @@ th {
 td {
 	background: #F5D7BF;
 	padding: 10px;
+}
+A {
+    		color: black;
+}
+A:visited {
+    		color: black;
+}
+A:active {
+    		color: #1E90FF;
 }
 //http://bgfons.com/uploads/notebook/notebook_texture2464.jpg
 	
