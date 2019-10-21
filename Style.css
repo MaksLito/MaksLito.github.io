@@ -55,12 +55,12 @@ hr{
 table {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
 	width: 700px;
-	text-align: left;
+	text-align: center;
 	border-collapse: separate;
 	border-spacing: 5px;
 	background: #1E90FF;
-	color: #656665;
-	border: 16px solid #ECE9E0;
+	color: #E0FFFF;
+	border: 16px solid #E0FFFF;
 	border-radius: 20px;
 }
 th {
