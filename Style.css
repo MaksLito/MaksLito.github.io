@@ -52,10 +52,10 @@ hr{
 	color: #1E90FF;
 }
 table{
-	border: 1; 
-	width: 70%;
-	bgcolor: lightblue;
-	align: center;
+	border: 1px; 
+	width: 50%;
+	color: lightblue;
+	text-align: center;
 }
 tr{
 	color: #1E90FF;
