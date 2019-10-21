@@ -26,8 +26,8 @@ img{
 	align: left; 
 	height: 200px; 
 	border: 1px; 
-	hspace: 20;
-	vspace: 13;
+	margin-left: 20px;
+	margin-top: 13px;
 }
 body{
 	background:url(fon.jpg);
@@ -74,5 +74,4 @@ A:visited {
 A:active {
     		color: #1E90FF;
 }
-//http://bgfons.com/uploads/notebook/notebook_texture2464.jpg
 	
