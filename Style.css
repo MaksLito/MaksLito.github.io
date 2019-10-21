@@ -53,14 +53,14 @@ hr{
 }
 table {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	width: 700px;
 	text-align: left;
 	border-collapse: separate;
 	border-spacing: 5px;
-	background: #ECE9E0;
+	background: #1E90FF;
 	color: #656665;
 	border: 16px solid #ECE9E0;
 	border-radius: 20px;
-	width: 70%;
 }
 th {
 	font-size: 18px;
