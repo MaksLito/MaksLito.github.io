@@ -51,5 +51,14 @@ dd{
 hr{
 	color: #1E90FF;
 }
+table{
+	border: 1; 
+	width: 70%;
+	bgcolor: lightblue;
+	align: center;
+}
+tr{
+	color: #1E90FF;
+}
 //http://bgfons.com/uploads/notebook/notebook_texture2464.jpg
 	
