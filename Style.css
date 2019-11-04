@@ -46,23 +46,28 @@ hr{
 	color: #1E90FF;
 }
 table {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
 	width: 700px;
 	text-align: center;
 	border-collapse: separate;
 	border-spacing: 5px;
 	background: #1E90FF;
-	color: #000000;
 	border: 16px solid #E0FFFF;
 	border-radius: 20px;
 }
 th {
-	font-size: 18px;
 	padding: 10px;
 }
-td {
-	background:#E0FFFF;
-	padding: 10px;
+tr:nth-child(odd) { 
+	background: #E0FFFF; 
+}
+tr:nth-child(even) { 
+	background: #4682B4; 
+}
+tr:hover { 
+	background: red;
+}
+th:hover { 
+	background: orange;
 }
 A {
     	color: #000000;
